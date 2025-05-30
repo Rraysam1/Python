@@ -4,9 +4,9 @@ This repository contains a collection of Python-based projects created to demons
 ## 📁 Project List
 
 ### 1. Python GUI App (Created May 2025)
-🖼️ A desktop graphical application built with Tkinter (or PyQt). Focuses on clean interface design and event-driven programming.
+🖼️ A desktop graphical application built with Tkinter. Focuses on clean interface design and event-driven programming.
 
-### 2. Boba Review Tracker (Created April 2025)
+### 2. Boba Review Tracker (Created May 2025)
 🧋 A command-line Python application that allows users to log and rate boba shops. Demonstrates file I/O, user input validation, and structured data storage.
 
 ### Work in Progress (Ongoing)
